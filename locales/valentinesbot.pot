@@ -1,0 +1,295 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-03-06 14:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers.py:198
+msgid ""
+"You won`t receive letters from other people. You can change this option "
+"with commands /receive_letters or /not_receive_letters"
+msgstr ""
+
+#: handlers.py:251
+msgid "It`s not a joke!"
+msgstr ""
+
+#: handlers.py:253
+msgid "It was last warning!"
+msgstr ""
+
+#: handlers.py:255
+msgid "You were blocked!"
+msgstr ""
+
+#: handlers.py:782
+msgid "Process letters, new letters in queue"
+msgstr ""
+
+#: handlers.py:934
+msgid "Write reject reason with reply"
+msgstr ""
+
+#: handlers.py:952
+msgid "Write block reason with reply"
+msgstr ""
+
+#: handlers.py:1124
+msgid "You are already receiving letters"
+msgstr ""
+
+#: handlers.py:1130
+msgid "You will receive letters now"
+msgstr ""
+
+#: handlers.py:1142
+msgid "You don`t receive letters"
+msgstr ""
+
+#: handlers.py:1145
+msgid "You won`t receive letters now"
+msgstr ""
+
+#: handlers.py:1186
+msgid "You are already online. To go offline - press /offline"
+msgstr ""
+
+#: handlers.py:1189
+msgid "You are online now"
+msgstr ""
+
+#: handlers.py:1196
+msgid "You are already offline. To go online - press /online"
+msgstr ""
+
+#: handlers.py:1199
+msgid "You are offline now"
+msgstr ""
+
+#: keyboards.py:15
+msgid "Do not reject"
+msgstr ""
+
+#: keyboards.py:21
+msgid "Do not block"
+msgstr ""
+
+#: keyboards.py:28 translates.py:32
+msgid "Not receive letters"
+msgstr ""
+
+#: keyboards.py:30 translates.py:31
+msgid "Receive letters"
+msgstr ""
+
+#: keyboards.py:36
+msgid "Back"
+msgstr ""
+
+#: translates.py:2
+msgid ""
+"Hello! At this difficult time for Ukraine, there are many people who need"
+" not only financial but also verbal help. Due to the failure of Putin's "
+"plans, he began bombing peaceful cities in order to intimidate people. "
+"Many houses, schools, hospitals have already been destroyed and he is not"
+" going to stop.\n"
+"\n"
+"But he will not succeed! Because we are a strong nation, we are "
+"Ukrainians! And now many people need verbal support that you can give "
+"them. For you it is a few words, and for someone the psyche or even life "
+"will be saved.\n"
+"\n"
+"Your letters will be sent to random people who need words of support.\n"
+"\n"
+"We also ask for your help in finding such people, because often they are "
+"your relatives, friends or acquaintances. Or maybe it's Instagram "
+"subscribers or people from your Telegram chats. Share with them a link to"
+" the bot"
+msgstr ""
+
+#: translates.py:3
+msgid "This is your letter. Is it correct?"
+msgstr ""
+
+#: translates.py:4
+msgid "Cancel"
+msgstr ""
+
+#: translates.py:5
+msgid "Hello"
+msgstr ""
+
+#: translates.py:12
+msgid "To send letter to someone Ukrainian, press /new"
+msgstr ""
+
+#: translates.py:13
+msgid ""
+"Send me letter you want to send to someone. It can be text, photo, video,"
+" gif, voice, video note or even audio. Press /cancel if you want to do it"
+" later"
+msgstr ""
+
+#: translates.py:15
+msgid "Your letter:"
+msgstr ""
+
+#: translates.py:18
+msgid "Send me photo you want to attach. Press /cancel to return"
+msgstr ""
+
+#: translates.py:20
+msgid "Send me new letter"
+msgstr ""
+
+#: translates.py:21
+msgid ""
+"Your letter will be sent soon. We will notify you.\n"
+"Press /new to send new letter.\n"
+"\n"
+"Also don`t forget to share bot to relatives, friends, acquaintances, "
+"instagram subscribers or people from your telegram chats.\n"
+"Help us to find people who need words of support"
+msgstr ""
+
+#: translates.py:22
+msgid ""
+"Your letter rejected.\n"
+"The reason: {reject_reason}"
+msgstr ""
+
+#: translates.py:23
+msgid ""
+"You were blocked.\n"
+"The reason: {block_reason}"
+msgstr ""
+
+#: translates.py:24
+msgid "Your letter has been delivered"
+msgstr ""
+
+#: translates.py:26
+msgid "You got the answer!"
+msgstr ""
+
+#: translates.py:27
+msgid "Answer not sent, I think the recipient has blocked the bot"
+msgstr ""
+
+#: translates.py:28
+msgid "Answer sent"
+msgstr ""
+
+#: translates.py:29
+msgid "Create letter"
+msgstr ""
+
+#: translates.py:33
+msgid "If you don`t know what to do"
+msgstr ""
+
+#: translates.py:34
+msgid "What I can do"
+msgstr ""
+
+#: translates.py:35
+msgid "Add admin"
+msgstr ""
+
+#: translates.py:36
+msgid "Delete admin"
+msgstr ""
+
+#: translates.py:37
+msgid "Start queue"
+msgstr ""
+
+#: translates.py:38
+msgid "Stop queue"
+msgstr ""
+
+#: translates.py:39
+msgid "Show users db"
+msgstr ""
+
+#: translates.py:40
+msgid "Send test letter"
+msgstr ""
+
+#: translates.py:41
+msgid "Receive letters to check"
+msgstr ""
+
+#: translates.py:42
+msgid "Not receive letters to check"
+msgstr ""
+
+#: translates.py:43
+msgid "Change scan timer of dashboard"
+msgstr ""
+
+#: translates.py:44
+msgid "Change scan timer of queue"
+msgstr ""
+
+#: translates.py:45
+msgid "Change language"
+msgstr ""
+
+#: translates.py:46
+msgid "Щоб відповісти, зроби реплай самого повідомлення, а не цього."
+msgstr ""
+
+#: translates.py:47
+msgid "You received new letter! You can answer it by reply the message"
+msgstr ""
+
+#: translates.py:48
+msgid "Змінити отримувача"
+msgstr ""
+
+#: translates.py:49
+msgid "Change letter"
+msgstr ""
+
+#: translates.py:50
+msgid "Remove photo"
+msgstr ""
+
+#: translates.py:51
+msgid "Add photo"
+msgstr ""
+
+#: translates.py:52
+msgid "Disable preview"
+msgstr ""
+
+#: translates.py:53
+msgid "Enable preview"
+msgstr ""
+
+#: translates.py:54
+msgid "It is correct"
+msgstr ""
+
+#: translates.py:55
+msgid "Close"
+msgstr ""
+
+#: translates.py:56
+msgid "Current language - English"
+msgstr ""
+

@@ -1,0 +1,353 @@
+# Ukrainian translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-03-06 14:46+0200\n"
+"PO-Revision-Date: 2022-03-03 21:06+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uk\n"
+"Language-Team: uk <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers.py:198
+msgid ""
+"You won`t receive letters from other people. You can change this option "
+"with commands /receive_letters or /not_receive_letters"
+msgstr ""
+"Ти будеш отримувати листи від інших людей. Це можна змінювати за "
+"допомогою команд /receive_letters та /not_receive_letters. Але не "
+"стидайся отримувати листи - бот створений для допомоги. Все буде Україна!"
+
+#: handlers.py:251
+msgid "It`s not a joke!"
+msgstr "Це не жарт!"
+
+#: handlers.py:253
+msgid "It was last warning!"
+msgstr ""
+"Слухай, мені це набридло, це останнє попередження. Ще раз натиснеш і я "
+"заблокую тебе!"
+
+#: handlers.py:255
+msgid "You were blocked!"
+msgstr "Ти був заблокований!"
+
+#: handlers.py:782
+msgid "Process letters, new letters in queue"
+msgstr "Оброби листи, нові вже в черзі"
+
+#: handlers.py:934
+msgid "Write reject reason with reply"
+msgstr "Напиши причину відмови з реплаєм"
+
+#: handlers.py:952
+msgid "Write block reason with reply"
+msgstr "Напиши причину блокування з реплаєм"
+
+#: handlers.py:1124
+msgid "You are already receiving letters"
+msgstr "Ти вже отримуєш листи"
+
+#: handlers.py:1130
+msgid "You will receive letters now"
+msgstr "Тепер ти будеш отримувати листи"
+
+#: handlers.py:1142
+msgid "You don`t receive letters"
+msgstr "Ти не отримуєш листи"
+
+#: handlers.py:1145
+msgid "You won`t receive letters now"
+msgstr "Тепер ти не будеш отримувати листи"
+
+#: handlers.py:1186
+msgid "You are already online. To go offline - press /offline"
+msgstr "Ти вже онлайн. Щоб вийти з лінії - натисни /offline"
+
+#: handlers.py:1189
+msgid "You are online now"
+msgstr "Тепер ти онлайн"
+
+#: handlers.py:1196
+msgid "You are already offline. To go online - press /online"
+msgstr "Ти вже офлайн. Щоб вийти на лінію - натисни /online"
+
+#: handlers.py:1199
+msgid "You are offline now"
+msgstr "Тепер ти офлайн"
+
+#: keyboards.py:15
+msgid "Do not reject"
+msgstr "Не відхиляти"
+
+#: keyboards.py:21
+msgid "Do not block"
+msgstr "Не блокувати"
+
+#: keyboards.py:28 translates.py:32
+msgid "Not receive letters"
+msgstr "Не отримувати листи"
+
+#: keyboards.py:30 translates.py:31
+msgid "Receive letters"
+msgstr "Отримувати листи"
+
+#: keyboards.py:36
+msgid "Back"
+msgstr "Назад"
+
+#: translates.py:2
+msgid ""
+"Hello! At this difficult time for Ukraine, there are many people who need"
+" not only financial but also verbal help. Due to the failure of Putin's "
+"plans, he began bombing peaceful cities in order to intimidate people. "
+"Many houses, schools, hospitals have already been destroyed and he is not"
+" going to stop.\n"
+"\n"
+"But he will not succeed! Because we are a strong nation, we are "
+"Ukrainians! And now many people need verbal support that you can give "
+"them. For you it is a few words, and for someone the psyche or even life "
+"will be saved.\n"
+"\n"
+"Your letters will be sent to random people who need words of support.\n"
+"\n"
+"We also ask for your help in finding such people, because often they are "
+"your relatives, friends or acquaintances. Or maybe it's Instagram "
+"subscribers or people from your Telegram chats. Share with them a link to"
+" the bot"
+msgstr ""
+"Привіт! У цей складний для нашої країни час є дуже багато людей, які "
+"потребують не лише фінансової, а й <b>емоційної допомоги</b>. Через "
+"провал планів Путіна, він почав бомбити мирні міста для того, щоб "
+"залякати людей. Вже зруйновано багато будинків, шкіл, лікарень і він не "
+"збирається зупинятися.\n"
+"\n"
+"Але в нього нічого не вийде! Бо ми – сильна нація, ми – Українці! І зараз"
+" багато людей потребують моральної підтримки, яку ТИ можеш їм надати. Для"
+" тебе це кілька слів, а для когось врятований емоційний стан чи навіть "
+"життя.\n"
+"\n"
+"Твої листи будуть надіслані випадковим людям, які мають потребу в "
+"лагідних словах.\n"
+"\n"
+"Також ми просимо твоєї допомоги у пошуку таких людей, адже часто ними є "
+"твої рідні, друзі чи знайомі. А може це підписники в Інстаграмі чи люди з"
+" твоїх чатів у Телеграмі.\n"
+"Поділися посиланням на бота.\n"
+"\n"
+"Все буде Україна🇺🇦🇺🇦🇺🇦"
+
+#: translates.py:3
+msgid "This is your letter. Is it correct?"
+msgstr "Це твій лист. Чи усе правильно?"
+
+#: translates.py:4
+msgid "Cancel"
+msgstr "Скасування"
+
+#: translates.py:5
+msgid "Hello"
+msgstr "Привіт"
+
+#: translates.py:12
+msgid "To send letter to someone Ukrainian, press /new"
+msgstr "Щоб відправити листа якомусь українцю - натисни /new"
+
+#: translates.py:13
+msgid ""
+"Send me letter you want to send to someone. It can be text, photo, video,"
+" gif, voice, video note or even audio. Press /cancel if you want to do it"
+" later"
+msgstr ""
+"Відправ мені лист, який ти хочеш надсілати. Це може бути що завгодно - "
+"текст, картинка, відео, гіфка, голосове або відео повідомлення, стікер, "
+"навіть пісня"
+
+#: translates.py:15
+msgid "Your letter:"
+msgstr "Твій лист:"
+
+#: translates.py:18
+msgid "Send me photo you want to attach. Press /cancel to return"
+msgstr ""
+"Надішли мені фото, яке хочеш прикріпити. Щоб повернутися назад - натисни "
+"/cancel"
+
+#: translates.py:20
+msgid "Send me new letter"
+msgstr "Відправ мені новий лист"
+
+#: translates.py:21
+msgid ""
+"Your letter will be sent soon. We will notify you.\n"
+"Press /new to send new letter.\n"
+"\n"
+"Also don`t forget to share bot to relatives, friends, acquaintances, "
+"instagram subscribers or people from your telegram chats.\n"
+"Help us to find people who need words of support"
+msgstr ""
+"Твій лист скоро буде надісланий, ми повідомимо тебе. Щоб написати новий "
+"лист - натисни /new. Також ми просимо твоєї допомоги у пошуку людей, яким"
+" потрібні теплі слова, адже часто ними є твої рідні, друзі чи знайомі.  А"
+" може це підписники в Інстаграмі чи люди люди з твоїх чатів у Телеграмі."
+"  Поділися з ними посиланням на бота"
+
+#: translates.py:22
+msgid ""
+"Your letter rejected.\n"
+"The reason: {reject_reason}"
+msgstr ""
+"Нажаль, твій лист відхилено\n"
+"Причина: {reject_reason}"
+
+#: translates.py:23
+msgid ""
+"You were blocked.\n"
+"The reason: {block_reason}"
+msgstr ""
+"Тебе було заблоковано\n"
+"Причина: {block_reason}"
+
+#: translates.py:24
+msgid "Your letter has been delivered"
+msgstr "Твоє повідомлення було надіслано"
+
+#: translates.py:26
+msgid "You got the answer!"
+msgstr "Ти отримав відповідь!"
+
+#: translates.py:27
+msgid "Answer not sent, I think the recipient has blocked the bot"
+msgstr "Відповідь не надіслана, скоріш за все співрозмовник заблокував мене"
+
+#: translates.py:28
+msgid "Answer sent"
+msgstr "Відповідь надіслана"
+
+#: translates.py:29
+msgid "Create letter"
+msgstr "Створити лист"
+
+#: translates.py:33
+msgid "If you don`t know what to do"
+msgstr "Якщо не знаєш що робити"
+
+#: translates.py:34
+msgid "What I can do"
+msgstr "Що я можу?"
+
+#: translates.py:35
+msgid "Add admin"
+msgstr "Додати адміна"
+
+#: translates.py:36
+msgid "Delete admin"
+msgstr "Видалити адміна"
+
+#: translates.py:37
+msgid "Start queue"
+msgstr "Відкрити обробку черги"
+
+#: translates.py:38
+msgid "Stop queue"
+msgstr "Закрити обробку черги"
+
+#: translates.py:39
+msgid "Show users db"
+msgstr "База юзерів"
+
+#: translates.py:40
+msgid "Send test letter"
+msgstr "Тестовий лист"
+
+#: translates.py:41
+msgid "Receive letters to check"
+msgstr "Отримувати листи на перевірку"
+
+#: translates.py:42
+msgid "Not receive letters to check"
+msgstr "Не отримувати листи на перевірку"
+
+#: translates.py:43
+msgid "Change scan timer of dashboard"
+msgstr "Змінити таймер сканування дашборду"
+
+#: translates.py:44
+msgid "Change scan timer of queue"
+msgstr "Змінити таймер сканування черги"
+
+#: translates.py:45
+msgid "Change language"
+msgstr "Змінити мову"
+
+#: translates.py:46
+msgid "Щоб відповісти, зроби реплай самого повідомлення, а не цього."
+msgstr ""
+
+#: translates.py:47
+msgid "You received new letter! You can answer it by reply the message"
+msgstr ""
+"Ти отримав новий лист! Ти можеш відповісти на нього використовуючи реплай"
+" (Натисни на повідомлення та відповісти)"
+
+#: translates.py:48
+msgid "Змінити отримувача"
+msgstr ""
+
+#: translates.py:49
+msgid "Change letter"
+msgstr "Змінити лист"
+
+#: translates.py:50
+msgid "Remove photo"
+msgstr "Прибрати фото"
+
+#: translates.py:51
+msgid "Add photo"
+msgstr "Додати фото"
+
+#: translates.py:52
+msgid "Disable preview"
+msgstr "Вимкнути попередній перегляд"
+
+#: translates.py:53
+msgid "Enable preview"
+msgstr "Увімкнути попередній перегляд"
+
+#: translates.py:54
+msgid "It is correct"
+msgstr "Все правильно"
+
+#: translates.py:55
+msgid "Close"
+msgstr "Закрити"
+
+#: translates.py:56
+msgid "Current language - English"
+msgstr "Поточна мова - Українська"
+
+#~ msgid "Це не жарт!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Слухай, мені це набридло, це останнє "
+#~ "попередження. Ще раз натиснеш і я "
+#~ "заблокую тебе!"
+#~ msgstr ""
+
+#~ msgid "Ти був заблокований"
+#~ msgstr ""
+
+#~ msgid "You received new letter!"
+#~ msgstr "Ти отримав новий лист!"
+
